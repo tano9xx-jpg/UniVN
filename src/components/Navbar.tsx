@@ -273,7 +273,7 @@ export const Navbar: React.FC<NavbarProps> = ({
             {/* 1. Mega menu: Giao diện theo chủ đề */}
             {openDropdown === 'themeCat' && (
               <div
-                className="absolute left-1/2 -translate-x-1/2 top-full mt-3 w-[620px] bg-white rounded-2xl shadow-2xl border-t-2 border-[#0baba0] p-6 grid grid-cols-3 gap-6 animate-in fade-in zoom-in-95 duration-150 z-50 text-xs before:content-[''] before:absolute before:-top-3 before:left-0 before:right-0 before:h-3"
+                className="absolute left-1/2 -translate-x-1/2 top-full mt-3 w-[580px] bg-white rounded-2xl shadow-2xl border-t-2 border-[#0baba0] p-6 grid grid-cols-3 gap-6 animate-in fade-in zoom-in-95 duration-150 z-50 text-xs before:content-[''] before:absolute before:-top-3 before:left-0 before:right-0 before:h-3"
               >
                 {/* Column 1 */}
                 <div className="space-y-3">
@@ -287,13 +287,13 @@ export const Navbar: React.FC<NavbarProps> = ({
                     onClick={() => handleNav('themes', 'o-to')}
                     className="w-full text-left font-medium text-slate-700 hover:text-[#0baba0] hover:translate-x-1 transition-all cursor-pointer"
                   >
-                    Ô tô & Xe máy
+                    Ô tô
                   </button>
                   <button
                     onClick={() => handleNav('themes', 'du-lich')}
                     className="w-full text-left font-medium text-slate-700 hover:text-[#0baba0] hover:translate-x-1 transition-all cursor-pointer"
                   >
-                    Du lịch & Khách sạn
+                    Du lịch
                   </button>
                 </div>
 
@@ -309,19 +309,13 @@ export const Navbar: React.FC<NavbarProps> = ({
                     onClick={() => handleNav('themes', 'noi-that')}
                     className="w-full text-left font-medium text-slate-700 hover:text-[#0baba0] hover:translate-x-1 transition-all cursor-pointer"
                   >
-                    Nội thất & Kiến trúc
+                    Nội thất
                   </button>
                   <button
                     onClick={() => handleNav('themes', 'du-hoc')}
                     className="w-full text-left font-medium text-slate-700 hover:text-[#0baba0] hover:translate-x-1 transition-all cursor-pointer"
                   >
-                    Du học & Giáo dục
-                  </button>
-                  <button
-                    onClick={() => handleNav('themes', 'spa')}
-                    className="w-full text-left font-medium text-slate-700 hover:text-[#0baba0] hover:translate-x-1 transition-all cursor-pointer"
-                  >
-                    Spa & Thẩm mỹ
+                    Du học
                   </button>
                 </div>
 
@@ -331,19 +325,13 @@ export const Navbar: React.FC<NavbarProps> = ({
                     onClick={() => handleNav('themes', 'bat-dong-san')}
                     className="w-full text-left font-medium text-slate-700 hover:text-[#0baba0] hover:translate-x-1 transition-all cursor-pointer"
                   >
-                    Bất động sản & Dự án
+                    Bất động sản
                   </button>
                   <button
                     onClick={() => handleNav('themes', 'xay-dung')}
                     className="w-full text-left font-medium text-slate-700 hover:text-[#0baba0] hover:translate-x-1 transition-all cursor-pointer"
                   >
-                    Xây dựng & Vật liệu
-                  </button>
-                  <button
-                    onClick={() => handleNav('themes', 'duoc-pham')}
-                    className="w-full text-left font-medium text-slate-700 hover:text-[#0baba0] hover:translate-x-1 transition-all cursor-pointer"
-                  >
-                    Dược phẩm & Y tế
+                    Xây dựng
                   </button>
                   <button
                     onClick={() => handleNav('themes', 'dich-vu-khac')}
@@ -526,17 +514,15 @@ export const Navbar: React.FC<NavbarProps> = ({
             </button>
             {mobileExpanded === 'themeCat' && (
               <div className="p-3 bg-white grid grid-cols-2 gap-2 text-xs">
-                <button onClick={() => handleNav('themes', 'gioi-thieu-cong-ty')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Doanh nghiệp</button>
-                <button onClick={() => handleNav('themes', 'thuong-mai-dien-tu')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Bán hàng / TMĐT</button>
-                <button onClick={() => handleNav('themes', 'bat-dong-san')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Bất động sản</button>
-                <button onClick={() => handleNav('themes', 'noi-that')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Nội thất & Kiến trúc</button>
-                <button onClick={() => handleNav('themes', 'xay-dung')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Xây dựng & Vật liệu</button>
-                <button onClick={() => handleNav('themes', 'du-lich')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Du lịch & Khách sạn</button>
-                <button onClick={() => handleNav('themes', 'du-hoc')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Du học & Giáo dục</button>
-                <button onClick={() => handleNav('themes', 'duoc-pham')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Dược phẩm & Y tế</button>
-                <button onClick={() => handleNav('themes', 'spa')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Spa & Thẩm mỹ</button>
-                <button onClick={() => handleNav('themes', 'o-to')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Ô tô & Xe máy</button>
-                <button onClick={() => handleNav('themes', 'dich-vu-khac')} className="text-left py-1 text-slate-600 hover:text-[#0baba0]">• Dịch vụ khác</button>
+                {['gioi-thieu-cong-ty', 'thuong-mai-dien-tu', 'bat-dong-san', 'o-to', 'noi-that', 'xay-dung', 'du-lich', 'du-hoc', 'dich-vu-khac'].map((c) => (
+                  <button
+                    key={c}
+                    onClick={() => handleNav('themes', c)}
+                    className="text-left py-1 text-slate-600 hover:text-[#0baba0]"
+                  >
+                    • {c.replace(/-/g, ' ')}
+                  </button>
+                ))}
               </div>
             )}
           </div>

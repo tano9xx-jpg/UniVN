@@ -11,7 +11,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Xây dựng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/tuan-hong-tiles",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Tuấn Hồng Tiles hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -31,7 +31,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Dược phẩm"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://soraipharma.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/sorai-pharma",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Sorai Pharma hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -53,7 +53,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Gói Startup"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/moi-truong-khanh-an",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Môi trường Khánh An hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -75,7 +75,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/miyagi",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Miyagi hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -95,7 +95,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Mỹ phẩm"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://soraipharma.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/mireya",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Mireya hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -117,7 +117,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Khách sạn"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/ivory-hoa-binh",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website IVORY Hoà Bình hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -138,7 +138,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/kamiko",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website KAMIKO hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -159,7 +159,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Giới thiệu công ty"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/ha-noi-plastics",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Hà Nội Plastics hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -180,7 +180,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/etugi",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Etugi hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -201,7 +201,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/dt-perfume",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website DT Perfume hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -222,7 +222,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Giới thiệu công ty"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/daiichi",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Daiichi hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -243,7 +243,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/cong-audio",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Cộng Audio hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -264,7 +264,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Giới thiệu công ty"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/blueocean",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Blueocean hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -285,7 +285,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/corelab-beauty",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Corelab Beauty hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -305,7 +305,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Gói Startup"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/art-nature",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website ART Nature hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -326,7 +326,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Giáo dục"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/kielo-school",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Kielo School hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -347,7 +347,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/bui-gia-luxury",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Bùi Gia Luxury hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -367,7 +367,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Các dự án VIP"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/bs-tang-duc-cuong",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Bs Tăng Đức Cương hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -389,7 +389,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Giáo dục"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/brainlink",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website BrainLink hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -410,7 +410,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Các dự án VIP"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/bds-theme",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website BĐS Theme hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -431,7 +431,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/ayana",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website AYANA hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -452,7 +452,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/asce-plus",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website ASCE PLUS hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -473,7 +473,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/alpha-vina",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website ALPHA VINA hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -493,7 +493,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Gói Pro"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/aria",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website ARIA hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -514,7 +514,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Khách sạn"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/booking-hotel",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Booking Hotel hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -535,7 +535,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/4runners",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website 4runners hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -557,7 +557,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/kien-moc-phat",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Kiến Mộc Phát hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -580,7 +580,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/aled-vn",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website ALED VN hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -601,7 +601,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Gói Pro"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/du-lich",
     "imageUrl": "https://images.unsplash.com/photo-1488646953014-85cb44e25828?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Du lịch hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -624,7 +624,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Thương mại điện tử"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/zulihome",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website ZULIHOME hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -646,7 +646,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/hscar23",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website HSCAR23 hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -669,7 +669,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme doanh nghiệp"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/dmi-com-vn",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website DMI.COM.VN hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -691,7 +691,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/thung-go-soi-nhap-khau",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Thùng gỗ sồi nhập khẩu hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -714,7 +714,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://soraipharma.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/nothingbutclassy",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Nothingbutclassy hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -737,7 +737,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/natcenter",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website NATCENTER hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -761,7 +761,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://soraipharma.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/ecojapan",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website ECOJAPAN hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -784,7 +784,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme doanh nghiệp"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/vnpackpro",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website VNPackPro hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -805,7 +805,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/ngoc-viet-co",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Ngọc Việt Co hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -827,7 +827,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://soraipharma.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/sam-nam-han-quoc",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Sâm nấm Hàn Quốc hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -852,7 +852,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Xây dựng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/viet-cons",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Việt-Cons hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -874,7 +874,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Giới thiệu công ty"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/ivf-dong-do",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website IVF Đông Đô hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -895,7 +895,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Gói Pro"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/babilala",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Babilala hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -916,7 +916,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/vietagold",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website VietAGold hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -936,7 +936,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Landing page"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/dich-vu-the-shb",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Dịch vụ thẻ SHB hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -957,7 +957,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Giới thiệu công ty"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/van-tai-vietrans-jsc",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Vận tải Vietrans JSC hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -978,7 +978,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/canxi-hito",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Canxi Hito hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -999,7 +999,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Giáo dục"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/skillking-fpt",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Skillking FPT hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1021,7 +1021,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Thương mại điện tử"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/qua-tang",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Quà tặng hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1042,7 +1042,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Gói Pro"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/dien-may-hlp",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Điện máy HLP hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1064,7 +1064,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/golden-pen",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Golden Pen hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1086,7 +1086,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/ome-cosmetic",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website OME Cosmetic hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1107,7 +1107,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/quat-hung-cuong",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Quạt Hùng Cường hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1128,7 +1128,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Dịch vụ khác"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/golf-booking",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Golf Booking hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1150,7 +1150,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Xây dựng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/hoang-hai-group",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Hoàng Hải Group hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1171,7 +1171,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Khách sạn"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/luxury-hotel",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Luxury Hotel hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1192,7 +1192,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/hiwinvietnam",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website HIWINVIETNAM hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1213,7 +1213,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/blackbullshoes",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website BlackbullShoes hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1235,7 +1235,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/bingcheng",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website BingCheng hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1256,7 +1256,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Pro",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/bach-thuan-khang",
     "imageUrl": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Bách Thuận Khang hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1277,7 +1277,7 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Theme bán hàng"
     ],
     "package": "Gói Startup",
-    "demoUrl": "http://miyagi.giaodiendep.com/",
+    "demoUrl": "https://demo.univn.vn/van-phong-pham",
     "imageUrl": "https://images.unsplash.com/photo-1507238691740-187a5b1d37b8?auto=format&fit=crop&w=800&q=80",
     "description": "Mẫu thiết kế website Văn phòng phẩm hiện đại, tối ưu SEO, chuẩn mobile, tốc độ tải trang dưới 1 giây.",
     "features": [
@@ -1286,222 +1286,6 @@ export const ALL_THEMES_60: ThemeItem[] = [
       "Tương thích di động (Responsive 100%)",
       "Tích hợp nút gọi, Zalo, Messenger, chat trực tuyến",
       "Tốc độ tải nhanh < 1.2s, chứng chỉ bảo mật SSL"
-    ]
-  },
-  {
-    "id": 3001,
-    "slug": "vinhomes-grand-city",
-    "title": "Vinhomes Grand City",
-    "category": "Bất động sản",
-    "allCategories": ["Bất động sản", "Các dự án VIP", "Gói VIP"],
-    "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1545324418-cc1a3fa10c00?auto=format&fit=crop&w=800&q=80",
-    "description": "Mẫu website dự án bất động sản căn hộ và shophouse cao cấp, mặt bằng tầng 360, bảng hàng và form giữ chỗ.",
-    "features": [
-      "Mặt bằng tương tác & VR Tour 360",
-      "Bảng check căn đẹp và tải bảng giá tức thì",
-      "Tối ưu chạy quảng cáo Google Ads & Facebook Ads",
-      "Bản đồ vị trí liên kết tiện ích vệ tinh",
-      "Tốc độ tải siêu tốc < 1.0s, chuẩn di động 100%"
-    ]
-  },
-  {
-    "id": 3002,
-    "slug": "ecopark-green-villa",
-    "title": "Ecopark Green Villa",
-    "category": "Bất động sản",
-    "allCategories": ["Bất động sản", "Gói VIP"],
-    "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1600596542815-ffad4c1539a9?auto=format&fit=crop&w=800&q=80",
-    "description": "Mẫu website biệt thự sinh thái nghỉ dưỡng chuẩn SEO Google, trình diễn tiện ích xanh và chính sách ưu đãi.",
-    "features": [
-      "Trình diễn không gian xanh & tiện ích 5 sao",
-      "Form đặt lịch xe đưa đón tham quan nhà mẫu",
-      "Tích hợp video flycam tiến độ công trình",
-      "Tính toán lãi suất vay ngân hàng mua nhà",
-      "Bảo hành trọn đời & bàn giao full mã nguồn"
-    ]
-  },
-  {
-    "id": 3003,
-    "slug": "dat-xanh-premier",
-    "title": "Đất Xanh Premier Land",
-    "category": "Bất động sản",
-    "allCategories": ["Bất động sản", "Gói Doanh nghiệp", "Gói Pro"],
-    "package": "Gói Doanh nghiệp",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1560518883-ce09059eeffa?auto=format&fit=crop&w=800&q=80",
-    "description": "Website sàn giao dịch bất động sản đa dự án, phân khu đất nền, nhà phố thương mại và biệt thự biển.",
-    "features": [
-      "Bộ lọc dự án theo khu vực và mức giá",
-      "Tải tài liệu pháp lý & brochure dự án",
-      "Nút kết nối nhanh Zalo Hotline chuyên viên",
-      "Tối ưu chuẩn SEO Onpage từ khóa nhà đất",
-      "Bàn giao 100% full source code"
-    ]
-  },
-  {
-    "id": 3004,
-    "slug": "vinfast-auto-premium",
-    "title": "VinFast Auto Premium",
-    "category": "Ô tô",
-    "allCategories": ["Ô tô", "Xe máy", "Gói VIP"],
-    "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1503376780353-7e6692767b70?auto=format&fit=crop&w=800&q=80",
-    "description": "Mẫu website showroom ô tô điện đẳng cấp, tính chi phí lăn bánh, so sánh thông số và đăng ký lái thử tại nhà.",
-    "features": [
-      "So sánh chi tiết thông số kỹ thuật các phiên bản",
-      "Công cụ dự toán giá lăn bánh theo từng tỉnh thành",
-      "Đăng ký lái thử xe nhận quà tặng độc quyền",
-      "Bảng tính chi phí trả góp ngân hàng hàng tháng",
-      "Giao diện chuẩn UI/UX công nghệ 2026"
-    ]
-  },
-  {
-    "id": 3005,
-    "slug": "toyota-3s-dealer",
-    "title": "Toyota Đại Lý 3S",
-    "category": "Ô tô",
-    "allCategories": ["Ô tô", "Xe máy", "Gói Doanh nghiệp"],
-    "package": "Gói Doanh nghiệp",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1552519507-da3b142c6e3d?auto=format&fit=crop&w=800&q=80",
-    "description": "Website đại lý ủy quyền xe hơi chính hãng, bảng giá khuyến mãi tháng, đặt hẹn bảo dưỡng và phụ tùng chuẩn.",
-    "features": [
-      "Trưng bày danh mục dòng xe Sedan, SUV, Bán tải",
-      "Form đặt lịch bảo dưỡng định kỳ và thay dầu",
-      "Tra cứu bảng giá phụ tùng và phụ kiện chính hãng",
-      "Nút gọi cứu hộ khẩn cấp 24/7 nổi bật",
-      "Chuẩn SEO Google Onpage 100%"
-    ]
-  },
-  {
-    "id": 3006,
-    "slug": "gara-auto-care-pro",
-    "title": "Gara Auto Care & Cứu Hộ",
-    "category": "Ô tô",
-    "allCategories": ["Ô tô", "Gói Startup"],
-    "package": "Gói Startup",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1486006920555-c77dce18193b?auto=format&fit=crop&w=800&q=80",
-    "description": "Website xưởng sửa chữa ô tô, dịch vụ độ xe detailing, sơn sấy công nghệ cao và cứu hộ xe tai nạn 24/7.",
-    "features": [
-      "Nút gọi hotline cứu hộ 24/7 một chạm",
-      "Bảng giá các gói bảo dưỡng và chăm sóc xe",
-      "Hình ảnh công trình xe độ hoàn thiện thực tế",
-      "Định vị bản đồ Google Maps chỉ đường tới gara",
-      "Tốc độ tải nhanh, bảo mật SSL trọn đời"
-    ]
-  },
-  {
-    "id": 3007,
-    "slug": "seoul-luxury-spa",
-    "title": "Seoul Luxury Beauty & Spa",
-    "category": "Spa",
-    "allCategories": ["Spa", "Thẩm mỹ", "Mỹ phẩm", "Gói VIP"],
-    "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1540555700478-4be289fbecef?auto=format&fit=crop&w=800&q=80",
-    "description": "Website viện thẩm mỹ công nghệ cao, bảng giá liệu trình chi tiết, hình ảnh trước sau và đặt lịch giữ chỗ.",
-    "features": [
-      "Bộ sưu tập kết quả khách hàng Before / After",
-      "Form đặt lịch hẹn làm đẹp nhận voucher 500k",
-      "Video công nghệ trẻ hóa da và giảm béo hiện đại",
-      "Đội ngũ bác sĩ da liễu và chuyên viên tay nghề cao",
-      "Giao diện tông màu pastel sang trọng, tinh tế"
-    ]
-  },
-  {
-    "id": 3008,
-    "slug": "an-nhien-herbal-spa",
-    "title": "An Nhiên Herbal Wellness Spa",
-    "category": "Spa",
-    "allCategories": ["Spa", "Thẩm mỹ", "Gói Pro"],
-    "package": "Gói Pro",
-    "demoUrl": "http://soraipharma.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1544161515-4ab6ce6db874?auto=format&fit=crop&w=800&q=80",
-    "description": "Mẫu website spa trị liệu dưỡng sinh đông y, gội đầu thảo dược, phong cách thiền định thư thái và ưu đãi thành viên.",
-    "features": [
-      "Bảng giá gói massage body và gội đầu dưỡng sinh",
-      "Module bán kèm trà thảo mộc và tinh dầu thiên nhiên",
-      "Hệ thống thẻ thành viên tích điểm và ưu đãi",
-      "Tối ưu hiển thị tuyệt đẹp trên iPhone, Android",
-      "Bảo hành kỹ thuật 24/7 trọn đời"
-    ]
-  },
-  {
-    "id": 3009,
-    "slug": "viet-travel-heritage",
-    "title": "Việt Travel Heritage Tours",
-    "category": "Du lịch",
-    "allCategories": ["Du lịch", "Khách sạn", "Gói Doanh nghiệp"],
-    "package": "Gói Doanh nghiệp",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1507525428034-b723cf961d3e?auto=format&fit=crop&w=800&q=80",
-    "description": "Mẫu website lữ hành du lịch quốc tế và nội địa, lịch trình tour trực quan từng ngày và đặt cọc online tiện lợi.",
-    "features": [
-      "Lịch trình tour chi tiết từng ngày kèm bản đồ",
-      "Lịch khởi hành định kỳ và chính sách giá theo mùa",
-      "Tích hợp đánh giá uy tín từ TripAdvisor",
-      "Đổi tiền tệ và đa ngôn ngữ quốc tế",
-      "Bàn giao 100% full source code"
-    ]
-  },
-  {
-    "id": 3010,
-    "slug": "phu-quoc-oasis-resort",
-    "title": "Phú Quốc Oasis 5-Star Resort",
-    "category": "Du lịch",
-    "allCategories": ["Du lịch", "Khách sạn", "Gói VIP"],
-    "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1566073771259-6a8506099945?auto=format&fit=crop&w=800&q=80",
-    "description": "Website khu nghỉ dưỡng cao cấp ven biển, kiểm tra phòng trống trực tiếp, hình ảnh villa hồ bơi và thực đơn nhà hàng.",
-    "features": [
-      "Kiểm tra ngày nhận / trả phòng theo thời gian thực",
-      "Trình diễn các hạng phòng Deluxe, Suite, Villa biển",
-      "Thực đơn ẩm thực hải sản và dịch vụ tiệc cưới",
-      "Hình ảnh 4K toàn cảnh bờ biển không gian nghỉ dưỡng",
-      "Bảo hành trọn đời trên hạ tầng máy chủ Uni"
-    ]
-  },
-  {
-    "id": 3011,
-    "slug": "xhome-luxury-interior",
-    "title": "XHome Architecture & Interior",
-    "category": "Nội thất",
-    "allCategories": ["Nội thất", "Kiến trúc", "Gói VIP"],
-    "package": "Gói VIP",
-    "demoUrl": "http://tuanhongtiles.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1618221195710-dd6b41faaea6?auto=format&fit=crop&w=800&q=80",
-    "description": "Mẫu website thiết kế thi công nội thất biệt thự sang trọng, công cụ dự toán ngân sách tự động theo diện tích m2.",
-    "features": [
-      "Lookbook công trình thực tế Before / After",
-      "Dự toán chi phí thi công theo diện tích căn hộ",
-      "Phân loại phong cách Hiện Đại, Indochine, Tân Cổ Điển",
-      "Giới thiệu hồ sơ xưởng sản xuất quy mô 2.000m2",
-      "Chuẩn SEO Google Onpage 100%"
-    ]
-  },
-  {
-    "id": 3012,
-    "slug": "go-oc-cho-master",
-    "title": "Gỗ Óc Chó Master Design",
-    "category": "Nội thất",
-    "allCategories": ["Nội thất", "Gói Doanh nghiệp"],
-    "package": "Gói Doanh nghiệp",
-    "demoUrl": "http://moitruongkhanhan.giaodiendep.com/",
-    "imageUrl": "https://images.unsplash.com/photo-1616486338812-3dadae4b4ace?auto=format&fit=crop&w=800&q=80",
-    "description": "Website xưởng sản xuất nội thất gỗ tự nhiên cao cấp, bộ sưu tập sofa, giường tủ, bàn ăn và quy trình 5 bước.",
-    "features": [
-      "Bộ sưu tập sản phẩm gỗ óc chó Bắc Mỹ nhập khẩu",
-      "Quy trình khảo sát, sản xuất và bảo hành 10 năm",
-      "Chế độ xem ảnh sắc nét phóng to chi tiết vân gỗ",
-      "Nút chat Zalo nhận tư vấn thiết kế 3D miễn phí",
-      "Bàn giao 100% full source code"
     ]
   }
 ];
